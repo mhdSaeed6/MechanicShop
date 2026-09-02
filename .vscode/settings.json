@@ -1,1 +1,4 @@
-{"dotnet-test-explorer.testProjectPath": "tests/**/*.csproj"}
+{"dotnet-test-explorer.testProjectPaths": [
+        "tests/**/*.csproj"
+    ]
+}
